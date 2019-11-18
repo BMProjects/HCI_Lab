@@ -1,2 +1,2 @@
 # HCI_Lab
-HCI Lab
+HCI 实验指导书及相关材料
